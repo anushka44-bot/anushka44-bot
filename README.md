@@ -35,5 +35,6 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with a kna
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/anushka-bag-4a3a52288)
+- [Instagram](https://www.instagram.com/anushka_._44/)
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to connect or collaborate!

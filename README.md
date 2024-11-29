@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with a knack for creating beautiful and responsive web applications.
 
-!![Frontend Development]!!
+!![Aspiring MERN Stack Developer]!!
 ## 🌱 About Me
 
-- 🔭 I’m currently working on a **Amazon Frontend Clone** project.
+- 🔭 I’m currently working on a **Myntra Frontend Clone** project.
 - 🌱 I’m learning more about **React**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 💬 Ask me about **HTML, CSS, and JavaScript**.

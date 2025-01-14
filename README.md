@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Anushka Bag]
+# 👋 Hi there! I'm Anushka Bag
 
 Welcome to my GitHub profile! I'm a passionate *Web Developer* with a knack for creating beautiful and responsive web applications.
 
